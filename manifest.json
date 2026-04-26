@@ -1,0 +1,9 @@
+{
+  "id": "studio-os",
+  "name": "Studio OS",
+  "version": "0.3.1",
+  "minAppVersion": "0.15.0",
+  "description": "Workspace identity & deployer for StepOne Studio — CouchDB-powered.",
+  "author": "StepOne Studio",
+  "isDesktopOnly": false
+}
