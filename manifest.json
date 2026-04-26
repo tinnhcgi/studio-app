@@ -1,9 +1,9 @@
-{
+﻿{
     "id":  "studio-os",
     "name":  "Studio OS",
-    "version":  "0.5.0",
+    "version":  "0.5.1",
     "minAppVersion":  "0.15.0",
-    "description":  "Workspace identity \u0026 deployer for StepOne Studio — CouchDB-powered.",
+    "description":  "Workspace identity \u0026 deployer for StepOne Studio â€” CouchDB-powered.",
     "author":  "StepOne Studio",
     "isDesktopOnly":  false
 }
